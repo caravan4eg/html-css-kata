@@ -105,11 +105,16 @@
 }
 
 /* My block */
-.part1{
+.row_1{
   background-color: #007bff;
 }
 
-.part2{
+.row_2{
   background-color: #333;
   color: whitesmoke;
+}
+
+.row_3{
+  background-color: rgb(212, 212, 212);
+
 }
